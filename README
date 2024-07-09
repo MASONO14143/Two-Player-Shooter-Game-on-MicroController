@@ -1,0 +1,16 @@
+
+# PEW PEW
+Two player pew pew game made by Lucas and Mason
+
+## Setting Up Game
+The game can be loaded onto a funkit by using the command:
+`make program`
+
+## How to play pew pew
+Each player controls a spaceship using the navswitch. 
+Players shoot a bullet at the other player by pushing the navswitch in.
+Each player can only have one active bullet at a time.  
+Obstacles also come from the right side of the screen. 
+The aim of the game is to not let an obstacle or bullet hit your spaceship before
+one hits your enemy's spaceship. Whoever suvives longer gets a point.
+First player to three points wins.
